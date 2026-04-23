@@ -1,0 +1,2 @@
+employees = []
+leave_requests = []
